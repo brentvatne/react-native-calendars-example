@@ -1,0 +1,21 @@
+{
+  "name": "react-native-calendars-example",
+  "description": "This module includes various customizable react native calendar components. https://github.com/wix/react-native-calendars",
+  "slug": "react-native-calendars-example",
+  "privacy": "public",
+  "sdkVersion": "16.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "./assets/icons/app.png",
+  "loading": {
+    "icon": "./assets/icons/loading.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}
